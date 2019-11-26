@@ -1,3 +1,2 @@
-# wizarddemo1
+# wizarddemo1  hello git!
 
-hello git!
